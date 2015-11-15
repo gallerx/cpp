@@ -1,0 +1,7 @@
+LIBRARY xp_CombinationHandler.dll
+
+DESCRIPTION   'CombinationHandler Extended Stored Procedure DLL'
+
+EXPORTS
+	xp_CombinationHandler
+	__GetXpVersion
