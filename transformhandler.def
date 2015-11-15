@@ -1,0 +1,7 @@
+LIBRARY xp_TransformHandler.dll
+
+DESCRIPTION   'TransformHandler Extended Stored Procedure DLL'
+
+EXPORTS
+	xp_TransformHandler
+	__GetXpVersion
