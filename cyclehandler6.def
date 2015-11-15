@@ -1,0 +1,7 @@
+LIBRARY xp_CycleHandler6.dll
+
+DESCRIPTION   'CycleHandler Extended Stored Procedure DLL'
+
+EXPORTS
+	xp_CycleHandler
+	__GetXpVersion
