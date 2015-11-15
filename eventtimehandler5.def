@@ -1,0 +1,7 @@
+LIBRARY xp_EventTimeHandler5.dll
+
+DESCRIPTION   'EventTimeHandler Extended Stored Procedure DLL'
+
+EXPORTS
+	xp_EventTimeHandler
+	__GetXpVersion
